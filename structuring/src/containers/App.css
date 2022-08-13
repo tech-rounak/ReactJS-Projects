@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.stu{
+  display: inline-block;
+  border:2px solid black;
+  width:250px;
+  height:180px;
+  margin:4px 4px;
+  background-color: aquamarine;
+}
+

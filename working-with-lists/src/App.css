@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+.stu{
+  display: inline-block;
+  border:2px solid black;
+  width:250px;
+  height:180px;
+  margin:4px 4px;
+  background-color: aquamarine;
+}
+.styleButton{
+    background-color:#9f765f;
+    border: 2px solid black;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.styleButton:hover{
+  box-shadow: inset 0 0 8px rgba(0,0,0,0.3);
+}
+
+.red{
+  color:red;
+}
+.bold{
+  font-weight:bold;
+}

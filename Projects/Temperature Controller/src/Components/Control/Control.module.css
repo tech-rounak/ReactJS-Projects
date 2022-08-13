@@ -1,0 +1,11 @@
+.control {
+    justify-content: center;
+    height: 450px;
+    width: 300px;
+    background: #2b5870;
+    border-radius: 20px;
+    box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.75);
+    margin: 20px;
+    padding: auto;
+    color:white
+}

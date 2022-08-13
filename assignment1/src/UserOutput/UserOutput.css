@@ -1,0 +1,11 @@
+.user{
+    display:inline-block;
+    text-align: center;
+    border: 2px solid black;
+    font: 1em sans-serif;
+    background-color: gray;
+    width:200px;
+    margin:2px 2px;
+    padding :2px 2px;
+
+}

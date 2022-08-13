@@ -1,0 +1,31 @@
+button {
+    border-radius: 100px;
+    height: 70px;
+    width: 70px;
+    font-size: 32px;
+    color: #ffffff;
+    background: rgb(105, 104, 104);
+    border: 2px #ffffff solid;
+    margin: 10px 25px;
+}
+
+button:hover {
+    background: rgb(184, 184, 184);
+    cursor: pointer;
+}
+
+button:focus {
+    outline: 0;
+}
+
+.neutral {
+    background: rgb(184, 184, 184);
+}
+
+.cold {
+    background: #035aa6;
+}
+
+.hot {
+    background: #ff5200;
+}
